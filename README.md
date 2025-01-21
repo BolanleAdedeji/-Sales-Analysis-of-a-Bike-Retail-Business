@@ -52,6 +52,8 @@ The age was grouped using 10-year intervals. Starting from = 25, the age was gro
 Using the find-and-replace tool, the "M" and "S" in the marital status were replaced with "Married" and "Single," respectively.
 - The "M" and "F" in the gender column were changed to Male and Female using the find and replace tool.
 
+![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/Cleaned%20Bike%20data.png) 
+
 ## TOOLS USED
 Excel was used for exploration, cleaning, analysis, and visualization.
 
@@ -67,3 +69,6 @@ Customer demography was analyzed against the economic situation and the buyers' 
 ## RESULTS
 
   
+![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/EDA.png)
+![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/EDA1.png) 
+
