@@ -59,16 +59,34 @@ Excel was used for exploration, cleaning, analysis, and visualization.
 
 ## EXPLORATORY DATA ANALYSIS 
 Customer demography was analyzed against the economic situation and the buyers' purchasing behavior, and the following was discovered.
+The average incoome of buyers were calculate.
+The analysis focus on multivariate analysis, comparing the income of buyers and some other factors to buying decisions,
+The relationship between income, occupation and buying decision was made, education, income and buying decision was analyzed, the distance commute and income was also use to determine buyers decision, age group as well as gender were metric also considered.
+
+## RESULTS
+
 1. Generally, the average income of married buyers is slightly higher than that of single buyers. more married people buy bikes than single people.
 2. Men earn more income than women, and the number of buyers who have purchased bikes is much higher than that of those who have not in both genders; however, the number of male bike buyers is higher than the number of female bike buyers.
 3. There is a significant relationship between level of education and income level, the higher the level of education the higher the income of buyers, same with occupation type and income level, buyers on the management level top the list with income followed by Professionals, and manual earning the lowest.
 4. The income of buyers affects their buying behavior.
 5. Buyers who commute 10+ Miles with higher income seems to buy more bikes while those who commute 0-1 miles buy fewer bikes.
 6. Buyers from the Pacific earn more than the other regions and thus purchase more bikes than the other regions.
-
-## RESULTS
-
+7. There is no significant relashionship between number of cars onwed and the buying decisions of bike buyers.
   
 ![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/EDA.png)
 ![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/EDA1.png) 
+![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/Bike%20sales%20dashboard.png)
+![image alt](https://github.com/BolanleAdedeji/-Sales-Analysis-of-a-Bike-Retail-Business/blob/main/Bike%20buyers%20behaviour%20-%20Made%20with%20Clipchamp.mp4)
 
+## RECOMMENDATIONS
+- To reach more female population advert targeting female need to be created.
+- Since pacific buyers showed little interets in the purchase of bike, further research is needed to determine this decision to ascertain the cause of this, either terrain issue, weather issue, income or other factors not shown in this dataset, North American buyers need a bit more push to improve their sales, adverts should focus on the benefits of bikes.
+- The commute distance significantly affect the purchasing behaviour of buyers, therefore advert should target people commuting long distance.
+- Sales and marketing should focus on the buyers commuting short distance.
+
+## LIMITATIONS
+- The data has few duplicates.
+- The data is only limited to 3 regions, the data also represent only 1,000 buyers' data, these are not good representative of all regions and is limited even in the regions covered.
+- the dataset did not include other factors that can affect buyers decisions such as weathers, terrain, bike price, bike types.
+- The data also include static variables such as education, occupation, these might not change anytime and might not directly affect buyers' decision.
+- The dataset do not include date, therefore making it hard to determine if it's old dataset or new dataset or if buyers' decisions change over time.
